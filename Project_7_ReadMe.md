@@ -49,4 +49,4 @@ To avoid the accuracy paradox that may result from relying on an accuracy score 
 
 2. **Model Performance**: The AUC score provides an overall measure of the model's performance across different classification thresholds. A score of 0.755 indicates that the classifier performs relatively well in terms of correctly ranking the positive and negative instances, compared to random guessing (AUC = 0.5).
 
-Link: [Credit Card Fraud Prediction (Kaggle)](https://www.kaggle.com/datasets/thgere/spent-lithium-ion-battery-recyclingslibr-dataset)
+Link: https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction?resource=download
